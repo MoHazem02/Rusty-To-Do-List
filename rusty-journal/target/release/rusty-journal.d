@@ -1,0 +1,1 @@
+D:\Mohamed\Programming\Projects\Rusty-To-Do-List\rusty-journal\target\release\rusty-journal.exe: D:\Mohamed\Programming\Projects\Rusty-To-Do-List\rusty-journal\src\cli.rs D:\Mohamed\Programming\Projects\Rusty-To-Do-List\rusty-journal\src\main.rs D:\Mohamed\Programming\Projects\Rusty-To-Do-List\rusty-journal\src\tasks.rs
