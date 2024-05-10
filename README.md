@@ -36,10 +36,12 @@ To use the Rusty-To-Do-List, follow these steps:
 4. Run the executable file with appropriate command-line arguments to add, remove, or print tasks.
 
 Example:
+`cd Rusty-To-Do-List/rusty-journal`
+
 ```bash
-cargo run -- -j test-journal.json add "Buy groceries"
-cargo run -- -j test-journal.json add "Finish Embedded Course"
-cargo run -- -j test-journal.json done 1
-cargo run -- -j test-journal.json list
+./target/release/rusty-journal -j test-journal.json add "Buy groceries"
+./target/release/rusty-journal-j test-journal.json add "Finish Embedded Course"
+./target/release/rusty-journal -j test-journal.json done 1
+./target/release/rusty-journal -j test-journal.json list
 ```
 
