@@ -30,13 +30,11 @@ The following dependencies are used in this project:
 
 To use the Rusty-To-Do-List, follow these steps:
 
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Build the project using Cargo.
-4. Run the executable file with appropriate command-line arguments to add, remove, or print tasks.
+1. `git clone https://github.com/MoHazem02/Rusty-To-Do-List.git`
+2. `cd Rusty-To-Do-List/rusty-journal`
+3. Run the executable file with appropriate command-line arguments to add, remove, or print tasks.
 
 Example:
-`cd Rusty-To-Do-List/rusty-journal`
 
 ```bash
 ./target/release/rusty-journal -j test-journal.json add "Buy groceries"
